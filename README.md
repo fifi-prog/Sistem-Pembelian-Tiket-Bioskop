@@ -14,3 +14,5 @@ Ringkasan Capaian Progress 1:
 - README.md awal berisi daftar anggota, akun GitHub, dan tabel pembagian tugas.
 - Proposal & analisis awal (Bagian A) telah diunggah pada docs/ atau README.md.
 - Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di docs/ pada branch main.
+
+tes
